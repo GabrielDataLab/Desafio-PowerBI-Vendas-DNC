@@ -25,7 +25,6 @@ No Power Query, realizei o tratamento inicial dos dados, que incluiu:
 - Configurei gráficos de linha com eixos de tempo contínuos e gráficos de coluna para análise por categoria.
 
 ## 4. Visualização Final do Dashboard
-![Dashboard de Vendas](![RID220310_Desafio01-1](https://github.com/user-attachments/assets/98de2a49-fe8b-4b45-8317-13adb2da8758)
-)
+![Dashboard de Vendas](RID220310_Desafio01-1.png)
 
 ---
