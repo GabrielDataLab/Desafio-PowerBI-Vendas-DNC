@@ -26,5 +26,5 @@ No Power Query, realizei o tratamento inicial dos dados, que incluiu:
 
 ## 4. Visualização Final do Dashboard
 ![Dashboard de Vendas](RID220310_Desafio01-1.png)
-
+![Dashboard de Vendas](RID220310_Desafio01-2.png)
 ---
